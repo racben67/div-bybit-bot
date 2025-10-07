@@ -1,3 +1,16 @@
+
+![Capture d’écran 2025-10-07 184520](https://github.com/user-attachments/assets/7de8b507-6b46-4322-908c-d9e07c4ce829)
+
+
+
+
+
+
+
+
+
+
+
 1. Calcul de l'Oscillateur
 Calcule un PPO basé sur le prix de clôture (close). La formule est : ((MME rapide - MME lente) / MME lente) * 100.
 
